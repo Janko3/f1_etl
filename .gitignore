@@ -1,0 +1,9 @@
+.env
+dataEngineeringDataset.csv
+logs/
+test.py
+__pycache__/
+.vscode/
+data/
+kafka/
+requirements.txt
